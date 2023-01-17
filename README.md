@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Avag. I'm currently learning web development and I'm excited to share my experiences and knowledge during my journey to becoming a software engineer. I really enjoy building projects, challenging myself and pushing harder and harder every time, cause that's the only way to grow.
+Currently I'm focused on front-end development and I'm learning [React.js](https://reactjs.org/). 
+
+[![Avag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avagsargsyan)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AvagSargsyan/avagsargsyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
