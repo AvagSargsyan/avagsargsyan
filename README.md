@@ -1,17 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-### <div align="center">About me<div>
+<!-- ## <div align="center">About me<div> -->
 
-I'm Avag. I'm currently learning Web Development and I'm excited to share my knowledge and experiences during my journey to becoming a Software Engineer. I really enjoy challenging myself by building projects that become more and more complex over time and I've learned to push my limits, cause that's the only way to grow.<br/>
+I'm Avag. I'm currently learning Web Development and I'm excited to share my knowledge and experiences during my journey to becoming a Software Engineer. I really enjoy challenging myself by building projects that become more and more complex over time and I've learned to push my limits, cause that's the only way to grow.
+<br/>
 Currently I'm focused on Front-end Development and I'm learning [React.js](https://reactjs.org/) framework. 
 
-<!-- ### <div align="center">Stats<div> -->
+# <div align="center">Stats 📈  <div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=avagsargsyan" height="220" alt="stats graph"  />
   
   
-### Languages and Tools
+# Technologies & Tools 🔧 
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
