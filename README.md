@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Avag. I'm a Compute Science student. I'm learning Web Development and it's really exciting to share my knowledge and experiences during my journey to becoming a Software Engineer. I really enjoy challenging myself by building projects that become more and more complex over time and I've learned to push my limits, cause that's the only way to grow.
+I'm Avag. I'm a Computer Science student. I'm learning Web Development and it's really exciting to share my knowledge and experiences during my journey to becoming a Software Engineer. I really enjoy challenging myself by building projects that become more and more complex over time and I've learned to push my limits, cause that's the only way to grow.
 <br/>
 Currently I'm envolved in an internship program which gives me the opportunity to learn in a fast-paced, challenging environment, and become familiar with software development processes and workflows.
 <br/>
