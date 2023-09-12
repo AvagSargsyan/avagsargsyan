@@ -2,9 +2,8 @@
 
 I'm Avag. I'm a Computer Science student. I'm learning Web Development and it's really exciting to share my knowledge and experiences during my journey to becoming a Software Engineer. I really enjoy challenging myself by building projects that become more and more complex over time and I've learned to push my limits, cause that's the only way to grow.
 <br/>
-Currently I'm envolved in an internship program which gives me the opportunity to learn in a fast-paced, challenging environment, and become familiar with software development processes and workflows.
+Currently I'm seeking opportunities to expand my horizons and dive into advanced programming concepts to further enhance my skills and be able to tackle complex software engineering challenges. The goal is to become a problem-solver: not just a coder!
 <br/>
-(If you're wondering why is my commit history pure white over the last few months, I am here to tell you that it's as green as a forest, I'm just commiting to my work account, not this one.)
 
 # <div align="center">Stats 📈 <div>
 
