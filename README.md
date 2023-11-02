@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm Avag, a Computer Science student focusing on Web Development. Here I'm sharing my knowledge and experiences (in the form of code) as I work towards becoming a Software Engineer. I enjoy challenging myself by building projects that become more and more complex over time and I've learned to push my limits, cause that's the only way to grow.
-<br/>
-Currently I'm seeking opportunities to expand my horizons and dive into advanced programming to further enhance my skills and be able to tackle complex software engineering challenges. <b> The goal is to become a problem-solver, not just a coder! </b>
+I'm Avag, a Software Developer. Here I'm sharing my knowledge and experiences (in the form of code) as I work towards becoming better at my craft. I enjoy challenging myself by building projects that become more and more complex over time and I've learned to push my limits, cause that's the only way to grow.
 <br/>
 
 # <div align="center">Stats 📈 <div>
