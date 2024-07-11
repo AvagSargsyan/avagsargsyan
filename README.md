@@ -1,6 +1,9 @@
 # Hi there 👋
 
-I'm Avag, a Software Engineer. Currently I am working at a big tech company - creating software solutions to automate some internal workfows. 
+I'm Avag, a Software Engineer who enjoys solving real-world problems. 
+<br />
+Currently I am working at a big tech company - creating software solutions to automate some internal workfows. 
+<br />
 <br />
 I haven't been comitting publicly for a while, but you can find some of my early projects here. 
 <br />
