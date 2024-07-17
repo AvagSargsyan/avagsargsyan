@@ -5,7 +5,7 @@ I'm Avag, a Software Engineer who enjoys solving real-world problems.
 Currently I am working at a big tech company - creating software solutions to automate some internal workfows. 
 <br />
 <br />
-I haven't been comitting publicly for a while, but you can find some of my early projects here. 
+I haven't been committing publicly for a while, but you can find some of my early projects here. 
 <br />
 
 # <div align="center">Stats 📈 <div>
