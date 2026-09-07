@@ -4,13 +4,6 @@ I'm Avag.
 <br />
 I haven't been committing publicly for a while, but you can find some of my early projects here. 
 <br />
-
-# <div align="center">Stats 📈 <div>
-
-<div align="center">
-<img
- src="https://github-readme-stats.vercel.app/api?username=avagsargsyan&show_icons=true&theme=radical&&hide_border=true"
-/>
   
 # Technologies & Tools 🔧 
   
